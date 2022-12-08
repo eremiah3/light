@@ -84,6 +84,15 @@ section {
 	padding: 110px 100px;
 	color: #000;
 }
+.btn{
+	background-color: #bf0a30;
+	color:#dffffd;
+	border: none;
+	height: 30px;
+	font-size: 20px;
+	width: 140px;
+	cursor: pointer;
+}
 @media (max-width:1000px) {
 	section {
 		padding: 100px 50px;
